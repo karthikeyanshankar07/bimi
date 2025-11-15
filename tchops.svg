@@ -1,0 +1,15 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256" height="256" viewBox="0 0 256 256">
+
+  <!-- Solid background (BIMI requirement) -->
+  <rect width="256" height="256" fill="#0D1520"></rect>
+
+  <!-- Shield base -->
+  <path d="M128 32 L196 64 L196 124 C196 168 162 208 128 224 C94 208 60 168 60 124 L60 64 Z" fill="#1E3A8A"></path>
+
+  <!-- Shield inner -->
+  <path d="M128 52 L176 74 L176 118 C176 152 150 188 128 198 C106 188 80 152 80 118 L80 74 Z" fill="#3B82F6"></path>
+
+  <!-- Checkmark -->
+  <path d="M112 126 L124 138 L148 108" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
